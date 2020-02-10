@@ -7,5 +7,6 @@
 </head>
 <body>
     <h1>Coba Remote Lagi</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At, ratione eum, consequatur ipsum assumenda non veritatis similique animi earum dolor ad? Nemo quos vitae dolor ratione quisquam minima nihil incidunt.</p>
 </body>
 </html>
